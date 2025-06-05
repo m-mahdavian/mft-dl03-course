@@ -13,4 +13,7 @@
 برای مدل DT:
 {'cls__criterion': 'gini', 'cls__max_depth': 5, 'cls__min_samples_split': 2}
 </p>
+<p>
+  هر سه تمرین در قالب یک فایل ipynb ارایه شده است.
+</p>
 
